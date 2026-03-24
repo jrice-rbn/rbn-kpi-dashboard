@@ -1,0 +1,7381 @@
+[
+  {
+    "week": "2022-04-11",
+    "newLeads": {
+      "total": 9,
+      "totalValue": 6350000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-04-18",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 1550000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-04-25",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 1050000,
+      "buy": 1,
+      "buyValue": 450000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-05-02",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 1600000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-05-09",
+    "newLeads": {
+      "total": 6,
+      "totalValue": 5750000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-05-16",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 1000000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-05-23",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 500000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-05-30",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 385000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-06-06",
+    "newLeads": {
+      "total": 6,
+      "totalValue": 6950000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 3,
+      "sellValue": 4550000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-06-13",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 1500001,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1500000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-06-20",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 1000000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-07-11",
+    "newLeads": {
+      "total": 3,
+      "totalValue": 1550000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1550000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-09-12",
+    "newLeads": {
+      "total": 17,
+      "totalValue": 23160000,
+      "buy": 9,
+      "buyValue": 10300000,
+      "sell": 8,
+      "sellValue": 12860000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-09-19",
+    "newLeads": {
+      "total": 17,
+      "totalValue": 20490000,
+      "buy": 13,
+      "buyValue": 17190000,
+      "sell": 4,
+      "sellValue": 3300000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-09-26",
+    "newLeads": {
+      "total": 10,
+      "totalValue": 8049000,
+      "buy": 6,
+      "buyValue": 4874000,
+      "sell": 4,
+      "sellValue": 3175000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-10-03",
+    "newLeads": {
+      "total": 7,
+      "totalValue": 10650000,
+      "buy": 4,
+      "buyValue": 5450000,
+      "sell": 3,
+      "sellValue": 5200000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-10-10",
+    "newLeads": {
+      "total": 5,
+      "totalValue": 5000000,
+      "buy": 4,
+      "buyValue": 4150000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-10-17",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 700000,
+      "buy": 1,
+      "buyValue": 700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-10-24",
+    "newLeads": {
+      "total": 4,
+      "totalValue": 4550000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 4,
+      "sellValue": 4550000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-11-07",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 500000,
+      "buy": 1,
+      "buyValue": 500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-11-14",
+    "newLeads": {
+      "total": 10,
+      "totalValue": 11100000,
+      "buy": 9,
+      "buyValue": 10450000,
+      "sell": 1,
+      "sellValue": 650000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-11-21",
+    "newLeads": {
+      "total": 16,
+      "totalValue": 17349998,
+      "buy": 8,
+      "buyValue": 6749999,
+      "sell": 8,
+      "sellValue": 10599999
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-11-28",
+    "newLeads": {
+      "total": 20,
+      "totalValue": 17900000,
+      "buy": 13,
+      "buyValue": 12400000,
+      "sell": 7,
+      "sellValue": 5500000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-12-05",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 750000,
+      "buy": 1,
+      "buyValue": 750000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-12-12",
+    "newLeads": {
+      "total": 3,
+      "totalValue": 2800000,
+      "buy": 1,
+      "buyValue": 600000,
+      "sell": 2,
+      "sellValue": 2200000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-12-19",
+    "newLeads": {
+      "total": 3,
+      "totalValue": 3400000,
+      "buy": 2,
+      "buyValue": 2400000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2022-12-26",
+    "newLeads": {
+      "total": 5,
+      "totalValue": 3610000,
+      "buy": 2,
+      "buyValue": 1500000,
+      "sell": 3,
+      "sellValue": 2110000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-01-02",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 3000000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 3000000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-01-09",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 1500000,
+      "buy": 2,
+      "buyValue": 1500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-01-16",
+    "newLeads": {
+      "total": 4,
+      "totalValue": 3150000,
+      "buy": 3,
+      "buyValue": 2350000,
+      "sell": 1,
+      "sellValue": 800000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-01-23",
+    "newLeads": {
+      "total": 7,
+      "totalValue": 8135000,
+      "buy": 5,
+      "buyValue": 5945000,
+      "sell": 2,
+      "sellValue": 2190000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-01-30",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 700000,
+      "buy": 1,
+      "buyValue": 700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-02-06",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 550000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-02-13",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 1800000,
+      "buy": 1,
+      "buyValue": 500000,
+      "sell": 1,
+      "sellValue": 1300000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-02-20",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 2125000,
+      "buy": 1,
+      "buyValue": 1600000,
+      "sell": 1,
+      "sellValue": 525000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-02-27",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 1500000,
+      "buy": 1,
+      "buyValue": 1500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-03-06",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 7975000,
+      "buy": 6,
+      "buyValue": 6400000,
+      "sell": 2,
+      "sellValue": 1575000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-03-13",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 1630000,
+      "buy": 1,
+      "buyValue": 880000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-04-17",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 2000000,
+      "buy": 1,
+      "buyValue": 2000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-04-24",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 899000,
+      "buy": 1,
+      "buyValue": 899000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-05-01",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 2000000,
+      "buy": 1,
+      "buyValue": 2000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-05-08",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 1500000,
+      "buy": 1,
+      "buyValue": 1500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-05-15",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 2355000,
+      "buy": 2,
+      "buyValue": 2355000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-06-05",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 1200000,
+      "buy": 1,
+      "buyValue": 1200000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-06-19",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 1800000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1800000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-06-26",
+    "newLeads": {
+      "total": 16,
+      "totalValue": 18364994,
+      "buy": 13,
+      "buyValue": 15114995,
+      "sell": 3,
+      "sellValue": 3249999
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-07-03",
+    "newLeads": {
+      "total": 7,
+      "totalValue": 8500000,
+      "buy": 7,
+      "buyValue": 8500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-10-09",
+    "newLeads": {
+      "total": 3,
+      "totalValue": 1420000,
+      "buy": 1,
+      "buyValue": 800000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-10-16",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 450000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-10-23",
+    "newLeads": {
+      "total": 13,
+      "totalValue": 10154999,
+      "buy": 7,
+      "buyValue": 7799999,
+      "sell": 2,
+      "sellValue": 1275000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2023-12-04",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 600000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 600000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-01-29",
+    "newLeads": {
+      "total": 5,
+      "totalValue": 2735000,
+      "buy": 1,
+      "buyValue": 500000,
+      "sell": 1,
+      "sellValue": 1200000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-02-05",
+    "newLeads": {
+      "total": 15,
+      "totalValue": 13403040,
+      "buy": 10,
+      "buyValue": 11763040,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-02-12",
+    "newLeads": {
+      "total": 9,
+      "totalValue": 10510000,
+      "buy": 7,
+      "buyValue": 9580000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-02-19",
+    "newLeads": {
+      "total": 5,
+      "totalValue": 3815000,
+      "buy": 3,
+      "buyValue": 2380000,
+      "sell": 1,
+      "sellValue": 1200000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-02-26",
+    "newLeads": {
+      "total": 4,
+      "totalValue": 3045000,
+      "buy": 3,
+      "buyValue": 2725000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-03-04",
+    "newLeads": {
+      "total": 7,
+      "totalValue": 6175000,
+      "buy": 5,
+      "buyValue": 4275000,
+      "sell": 1,
+      "sellValue": 1600000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-03-11",
+    "newLeads": {
+      "total": 6,
+      "totalValue": 7750000,
+      "buy": 6,
+      "buyValue": 7750000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-03-18",
+    "newLeads": {
+      "total": 13,
+      "totalValue": 16450000,
+      "buy": 9,
+      "buyValue": 13600000,
+      "sell": 4,
+      "sellValue": 2850000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-03-25",
+    "newLeads": {
+      "total": 10,
+      "totalValue": 17300000,
+      "buy": 9,
+      "buyValue": 16650000,
+      "sell": 1,
+      "sellValue": 650000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-04-01",
+    "newLeads": {
+      "total": 3,
+      "totalValue": 4200000,
+      "buy": 2,
+      "buyValue": 1700000,
+      "sell": 1,
+      "sellValue": 2500000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-04-08",
+    "newLeads": {
+      "total": 10,
+      "totalValue": 12200000,
+      "buy": 9,
+      "buyValue": 11200000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-04-15",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 14530000,
+      "buy": 5,
+      "buyValue": 11500000,
+      "sell": 3,
+      "sellValue": 3030000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-04-22",
+    "newLeads": {
+      "total": 6,
+      "totalValue": 11475000,
+      "buy": 4,
+      "buyValue": 10000000,
+      "sell": 2,
+      "sellValue": 1475000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-04-29",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 2449999,
+      "buy": 2,
+      "buyValue": 2449999,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-05-06",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 2400000,
+      "buy": 2,
+      "buyValue": 2400000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-05-13",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 9550000,
+      "buy": 6,
+      "buyValue": 6750000,
+      "sell": 2,
+      "sellValue": 2800000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-05-20",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 3550000,
+      "buy": 1,
+      "buyValue": 550000,
+      "sell": 1,
+      "sellValue": 3000000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-05-27",
+    "newLeads": {
+      "total": 5,
+      "totalValue": 4500000,
+      "buy": 3,
+      "buyValue": 2550000,
+      "sell": 2,
+      "sellValue": 1950000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-06-03",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 11290000,
+      "buy": 7,
+      "buyValue": 8790000,
+      "sell": 1,
+      "sellValue": 2500000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-06-10",
+    "newLeads": {
+      "total": 9,
+      "totalValue": 7565000,
+      "buy": 4,
+      "buyValue": 3515000,
+      "sell": 5,
+      "sellValue": 4050000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-06-17",
+    "newLeads": {
+      "total": 3,
+      "totalValue": 3000000,
+      "buy": 2,
+      "buyValue": 1900000,
+      "sell": 1,
+      "sellValue": 1100000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-06-24",
+    "newLeads": {
+      "total": 5,
+      "totalValue": 7950000,
+      "buy": 5,
+      "buyValue": 7950000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-07-01",
+    "newLeads": {
+      "total": 2,
+      "totalValue": 1000000,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1000000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-07-29",
+    "newLeads": {
+      "total": 1,
+      "totalValue": 500000,
+      "buy": 1,
+      "buyValue": 500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-09-02",
+    "newLeads": {
+      "total": 12,
+      "totalValue": 12059000,
+      "buy": 6,
+      "buyValue": 6250000,
+      "sell": 6,
+      "sellValue": 5809000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 1500000,
+      "sell": 5,
+      "sellValue": 5643000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 505000
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 594000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-09-09",
+    "newLeads": {
+      "total": 33,
+      "totalValue": 35450000,
+      "buy": 22,
+      "buyValue": 25300000,
+      "sell": 11,
+      "sellValue": 10150000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1200000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 565000
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 1500000,
+      "sell": 2,
+      "sellValue": 1165000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 505000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-09-16",
+    "newLeads": {
+      "total": 35,
+      "totalValue": 39250000,
+      "buy": 23,
+      "buyValue": 22950000,
+      "sell": 12,
+      "sellValue": 16300000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 4000000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 1500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 5500000,
+      "sell": 1,
+      "sellValue": 2500000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-09-23",
+    "newLeads": {
+      "total": 26,
+      "totalValue": 33364000,
+      "buy": 16,
+      "buyValue": 19164000,
+      "sell": 10,
+      "sellValue": 14200000
+    },
+    "apptScheduled": {
+      "buy": 2,
+      "buyValue": 1164000,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 930000,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 930000,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 2500000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-09-30",
+    "newLeads": {
+      "total": 23,
+      "totalValue": 25600000,
+      "buy": 16,
+      "buyValue": 18050000,
+      "sell": 7,
+      "sellValue": 7550000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 1401900,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 2331900,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-10-07",
+    "newLeads": {
+      "total": 18,
+      "totalValue": 19688500,
+      "buy": 7,
+      "buyValue": 5838500,
+      "sell": 11,
+      "sellValue": 13850000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 1750000,
+      "sell": 3,
+      "sellValue": 3785000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-10-14",
+    "newLeads": {
+      "total": 11,
+      "totalValue": 19300000,
+      "buy": 6,
+      "buyValue": 10150000,
+      "sell": 5,
+      "sellValue": 9150000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 485000
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 485000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-10-21",
+    "newLeads": {
+      "total": 9,
+      "totalValue": 4400000,
+      "buy": 5,
+      "buyValue": 2500000,
+      "sell": 4,
+      "sellValue": 1900000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1550000
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1550000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1050000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-10-28",
+    "newLeads": {
+      "total": 0,
+      "totalValue": 0,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-11-04",
+    "newLeads": {
+      "total": 6,
+      "totalValue": 9420000,
+      "buy": 3,
+      "buyValue": 6670000,
+      "sell": 3,
+      "sellValue": 2750000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 2200000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 1920000,
+      "sell": 2,
+      "sellValue": 1250000
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 2200000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1500000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-11-11",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 18100000,
+      "buy": 6,
+      "buyValue": 14750000,
+      "sell": 2,
+      "sellValue": 3350000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 2050000,
+      "sell": 1,
+      "sellValue": 1940000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 2720000,
+      "sell": 1,
+      "sellValue": 1940000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1250000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-11-18",
+    "newLeads": {
+      "total": 3,
+      "totalValue": 3450000,
+      "buy": 3,
+      "buyValue": 3450000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 388500,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-11-25",
+    "newLeads": {
+      "total": 7,
+      "totalValue": 7564890,
+      "buy": 3,
+      "buyValue": 2509890,
+      "sell": 4,
+      "sellValue": 5055000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 369990,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 639900,
+      "sell": 1,
+      "sellValue": 555000
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 555000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 388500,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-12-02",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 17200000,
+      "buy": 7,
+      "buyValue": 14450000,
+      "sell": 1,
+      "sellValue": 2750000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 1,
+      "sellValue": 650000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 639900,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 2800000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-12-09",
+    "newLeads": {
+      "total": 28,
+      "totalValue": 24950000,
+      "buy": 18,
+      "buyValue": 15850000,
+      "sell": 10,
+      "sellValue": 9100000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-12-16",
+    "newLeads": {
+      "total": 12,
+      "totalValue": 12050000,
+      "buy": 8,
+      "buyValue": 8900000,
+      "sell": 4,
+      "sellValue": 3150000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 650000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1550000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-12-23",
+    "newLeads": {
+      "total": 28,
+      "totalValue": 26079000,
+      "buy": 18,
+      "buyValue": 17950000,
+      "sell": 10,
+      "sellValue": 8129000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 650000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 3,
+      "sellValue": 2679000
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 1,
+      "sellValue": 1379000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 730000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 2800000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2024-12-30",
+    "newLeads": {
+      "total": 38,
+      "totalValue": 39448998,
+      "buy": 26,
+      "buyValue": 27649000,
+      "sell": 12,
+      "sellValue": 11799998
+    },
+    "apptScheduled": {
+      "buy": 3,
+      "buyValue": 2050000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-01-06",
+    "newLeads": {
+      "total": 9,
+      "totalValue": 8060000,
+      "buy": 5,
+      "buyValue": 4600000,
+      "sell": 4,
+      "sellValue": 3460000
+    },
+    "apptScheduled": {
+      "buy": 2,
+      "buyValue": 2099000,
+      "sell": 1,
+      "sellValue": 730000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 1099000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1300000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-01-13",
+    "newLeads": {
+      "total": 11,
+      "totalValue": 13350000,
+      "buy": 8,
+      "buyValue": 8100000,
+      "sell": 3,
+      "sellValue": 5250000
+    },
+    "apptScheduled": {
+      "buy": 5,
+      "buyValue": 5100000,
+      "sell": 3,
+      "sellValue": 6000000
+    },
+    "matching": {
+      "buy": 8,
+      "buyValue": 8500000,
+      "sell": 4,
+      "sellValue": 7500000
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 4849000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 802000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 802000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-01-20",
+    "newLeads": {
+      "total": 0,
+      "totalValue": 0,
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 2,
+      "buyValue": 2500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 4000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-01-27",
+    "newLeads": {
+      "total": 11,
+      "totalValue": 16357000,
+      "buy": 7,
+      "buyValue": 6207000,
+      "sell": 4,
+      "sellValue": 10150000
+    },
+    "apptScheduled": {
+      "buy": 4,
+      "buyValue": 4000000,
+      "sell": 2,
+      "sellValue": 1650000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 707000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1920000,
+      "sell": 1,
+      "sellValue": 1500000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1110000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-02-03",
+    "newLeads": {
+      "total": 9,
+      "totalValue": 13535000,
+      "buy": 4,
+      "buyValue": 6135000,
+      "sell": 5,
+      "sellValue": 7400000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 11135000,
+      "sell": 4,
+      "sellValue": 10700000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 1635000,
+      "sell": 2,
+      "sellValue": 900000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 1592000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1099000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 1920000,
+      "sell": 2,
+      "sellValue": 2044000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-02-10",
+    "newLeads": {
+      "total": 51,
+      "totalValue": 86449000,
+      "buy": 37,
+      "buyValue": 46850000,
+      "sell": 14,
+      "sellValue": 39599000
+    },
+    "apptScheduled": {
+      "buy": 20,
+      "buyValue": 28600000,
+      "sell": 9,
+      "sellValue": 28849000
+    },
+    "matching": {
+      "buy": 8,
+      "buyValue": 8500000,
+      "sell": 7,
+      "sellValue": 5259000
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 4250000,
+      "sell": 3,
+      "sellValue": 2199000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 555000
+    }
+  },
+  {
+    "week": "2025-02-17",
+    "newLeads": {
+      "total": 67,
+      "totalValue": 65682500,
+      "buy": 47,
+      "buyValue": 44232500,
+      "sell": 20,
+      "sellValue": 21450000
+    },
+    "apptScheduled": {
+      "buy": 19,
+      "buyValue": 18622300,
+      "sell": 9,
+      "sellValue": 9950000
+    },
+    "matching": {
+      "buy": 9,
+      "buyValue": 20082500,
+      "sell": 4,
+      "sellValue": 2620000
+    },
+    "connecting": {
+      "buy": 12,
+      "buyValue": 11000000,
+      "sell": 9,
+      "sellValue": 6550000
+    },
+    "connected": {
+      "buy": 8,
+      "buyValue": 7092000,
+      "sell": 8,
+      "sellValue": 12500000
+    },
+    "inEscrow": {
+      "buy": 3,
+      "buyValue": 2165000,
+      "sell": 3,
+      "sellValue": 2281000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-02-24",
+    "newLeads": {
+      "total": 27,
+      "totalValue": 39249999,
+      "buy": 20,
+      "buyValue": 28700000,
+      "sell": 7,
+      "sellValue": 10549999
+    },
+    "apptScheduled": {
+      "buy": 8,
+      "buyValue": 6150000,
+      "sell": 4,
+      "sellValue": 3200000
+    },
+    "matching": {
+      "buy": 6,
+      "buyValue": 4839800,
+      "sell": 7,
+      "sellValue": 17199999
+    },
+    "connecting": {
+      "buy": 10,
+      "buyValue": 24002400,
+      "sell": 3,
+      "sellValue": 6700000
+    },
+    "connected": {
+      "buy": 6,
+      "buyValue": 11082500,
+      "sell": 2,
+      "sellValue": 1249000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-03-03",
+    "newLeads": {
+      "total": 23,
+      "totalValue": 19500000,
+      "buy": 19,
+      "buyValue": 16050000,
+      "sell": 4,
+      "sellValue": 3450000
+    },
+    "apptScheduled": {
+      "buy": 5,
+      "buyValue": 5800000,
+      "sell": 3,
+      "sellValue": 2150000
+    },
+    "matching": {
+      "buy": 5,
+      "buyValue": 6250000,
+      "sell": 4,
+      "sellValue": 5700000
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 5000000,
+      "sell": 5,
+      "sellValue": 7199999
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 1119900,
+      "sell": 2,
+      "sellValue": 1700000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-03-10",
+    "newLeads": {
+      "total": 35,
+      "totalValue": 58600000,
+      "buy": 26,
+      "buyValue": 39000000,
+      "sell": 9,
+      "sellValue": 19600000
+    },
+    "apptScheduled": {
+      "buy": 13,
+      "buyValue": 16200000,
+      "sell": 4,
+      "sellValue": 4950000
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 4250000,
+      "sell": 4,
+      "sellValue": 5900000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 6650000,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 2500000,
+      "sell": 4,
+      "sellValue": 5749999
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 639900,
+      "sell": 1,
+      "sellValue": 799000
+    },
+    "paymentReceived": {
+      "buy": 2,
+      "buyValue": 2850000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-03-17",
+    "newLeads": {
+      "total": 27,
+      "totalValue": 31850000,
+      "buy": 21,
+      "buyValue": 26550000,
+      "sell": 6,
+      "sellValue": 5300000
+    },
+    "apptScheduled": {
+      "buy": 8,
+      "buyValue": 10000000,
+      "sell": 2,
+      "sellValue": 1800000
+    },
+    "matching": {
+      "buy": 6,
+      "buyValue": 6500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 6,
+      "buyValue": 5850000,
+      "sell": 3,
+      "sellValue": 5750000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 900000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-03-24",
+    "newLeads": {
+      "total": 21,
+      "totalValue": 29700000,
+      "buy": 16,
+      "buyValue": 24650000,
+      "sell": 5,
+      "sellValue": 5050000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 9100000,
+      "sell": 1,
+      "sellValue": 900000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 2600000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 4100000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 5,
+      "buyValue": 5750000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 2,
+      "buyValue": 1467500,
+      "sell": 1,
+      "sellValue": 1550000
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 639900,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-03-31",
+    "newLeads": {
+      "total": 18,
+      "totalValue": 30200000,
+      "buy": 13,
+      "buyValue": 27250000,
+      "sell": 5,
+      "sellValue": 2950000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 23700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 800000,
+      "sell": 1,
+      "sellValue": 700000
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1500000,
+      "sell": 1,
+      "sellValue": 5000000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 885000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-04-07",
+    "newLeads": {
+      "total": 36,
+      "totalValue": 85600000,
+      "buy": 27,
+      "buyValue": 66400000,
+      "sell": 8,
+      "sellValue": 18950000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 5700000,
+      "sell": 3,
+      "sellValue": 3450000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 600000,
+      "sell": 1,
+      "sellValue": 1500000
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 3600000,
+      "sell": 4,
+      "sellValue": 4450000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1750000
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 2349000
+    }
+  },
+  {
+    "week": "2025-04-14",
+    "newLeads": {
+      "total": 35,
+      "totalValue": 90800000,
+      "buy": 26,
+      "buyValue": 71350000,
+      "sell": 8,
+      "sellValue": 19150000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 19750000,
+      "sell": 5,
+      "sellValue": 7350000
+    },
+    "matching": {
+      "buy": 5,
+      "buyValue": 6700000,
+      "sell": 5,
+      "sellValue": 7100000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 5200000,
+      "sell": 3,
+      "sellValue": 4200000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 1100000,
+      "sell": 2,
+      "sellValue": 2200000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 582500,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-04-21",
+    "newLeads": {
+      "total": 32,
+      "totalValue": 41040000,
+      "buy": 24,
+      "buyValue": 34850000,
+      "sell": 6,
+      "sellValue": 4340000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 8550000,
+      "sell": 6,
+      "sellValue": 6040000
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 4500000,
+      "sell": 3,
+      "sellValue": 2240000
+    },
+    "connecting": {
+      "buy": 7,
+      "buyValue": 7950000,
+      "sell": 3,
+      "sellValue": 3690000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 1750000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 2,
+      "buyValue": 1468900,
+      "sell": 1,
+      "sellValue": 485000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-04-28",
+    "newLeads": {
+      "total": 33,
+      "totalValue": 63000000,
+      "buy": 20,
+      "buyValue": 43600000,
+      "sell": 8,
+      "sellValue": 15600000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 14350000,
+      "sell": 3,
+      "sellValue": 11150000
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 5300000,
+      "sell": 2,
+      "sellValue": 3100000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 5800000,
+      "sell": 2,
+      "sellValue": 3350000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 790000
+    },
+    "inEscrow": {
+      "buy": 3,
+      "buyValue": 1580500,
+      "sell": 3,
+      "sellValue": 1865000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-05-05",
+    "newLeads": {
+      "total": 17,
+      "totalValue": 64500000,
+      "buy": 12,
+      "buyValue": 44600000,
+      "sell": 5,
+      "sellValue": 19900000
+    },
+    "apptScheduled": {
+      "buy": 5,
+      "buyValue": 22200000,
+      "sell": 1,
+      "sellValue": 2000000
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 3650000,
+      "sell": 2,
+      "sellValue": 5300000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 4400000,
+      "sell": 4,
+      "sellValue": 6500000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-05-12",
+    "newLeads": {
+      "total": 30,
+      "totalValue": 54150000,
+      "buy": 22,
+      "buyValue": 42550000,
+      "sell": 8,
+      "sellValue": 11600000
+    },
+    "apptScheduled": {
+      "buy": 10,
+      "buyValue": 31600000,
+      "sell": 3,
+      "sellValue": 5500000
+    },
+    "matching": {
+      "buy": 5,
+      "buyValue": 6800000,
+      "sell": 1,
+      "sellValue": 2250000
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 4800000,
+      "sell": 1,
+      "sellValue": 2250000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 1785000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 485000
+    }
+  },
+  {
+    "week": "2025-05-19",
+    "newLeads": {
+      "total": 20,
+      "totalValue": 20425000,
+      "buy": 11,
+      "buyValue": 8575000,
+      "sell": 8,
+      "sellValue": 11150000
+    },
+    "apptScheduled": {
+      "buy": 5,
+      "buyValue": 3950000,
+      "sell": 4,
+      "sellValue": 7050000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 2250000,
+      "sell": 3,
+      "sellValue": 6600000
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 4325000,
+      "sell": 4,
+      "sellValue": 9100000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 2075000,
+      "sell": 1,
+      "sellValue": 3300000
+    },
+    "inEscrow": {
+      "buy": 5,
+      "buyValue": 8925773,
+      "sell": 1,
+      "sellValue": 655000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-05-26",
+    "newLeads": {
+      "total": 27,
+      "totalValue": 40800000,
+      "buy": 20,
+      "buyValue": 34650000,
+      "sell": 7,
+      "sellValue": 6150000
+    },
+    "apptScheduled": {
+      "buy": 10,
+      "buyValue": 17550000,
+      "sell": 2,
+      "sellValue": 1700000
+    },
+    "matching": {
+      "buy": 5,
+      "buyValue": 7400000,
+      "sell": 1,
+      "sellValue": 950000
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 5450000,
+      "sell": 1,
+      "sellValue": 950000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 550000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 1099000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-06-02",
+    "newLeads": {
+      "total": 28,
+      "totalValue": 43200000,
+      "buy": 20,
+      "buyValue": 27250000,
+      "sell": 7,
+      "sellValue": 15250000
+    },
+    "apptScheduled": {
+      "buy": 4,
+      "buyValue": 11950000,
+      "sell": 4,
+      "sellValue": 12050000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 1950000,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "connected": {
+      "buy": 3,
+      "buyValue": 2900000,
+      "sell": 1,
+      "sellValue": 950000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 4,
+      "buyValue": 4233490,
+      "sell": 1,
+      "sellValue": 715000
+    }
+  },
+  {
+    "week": "2025-06-09",
+    "newLeads": {
+      "total": 21,
+      "totalValue": 34885000,
+      "buy": 12,
+      "buyValue": 22750000,
+      "sell": 9,
+      "sellValue": 12135000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 13900000,
+      "sell": 4,
+      "sellValue": 5350000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 3235000
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 985000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 6,
+      "buyValue": 9076000,
+      "sell": 2,
+      "sellValue": 2795000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1000000
+    }
+  },
+  {
+    "week": "2025-06-16",
+    "newLeads": {
+      "total": 27,
+      "totalValue": 38000000,
+      "buy": 23,
+      "buyValue": 35150000,
+      "sell": 4,
+      "sellValue": 2850000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 14550000,
+      "sell": 3,
+      "sellValue": 2250000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 1900000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 1750000,
+      "sell": 1,
+      "sellValue": 2750000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 505000
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 817459,
+      "sell": 1,
+      "sellValue": 1000000
+    }
+  },
+  {
+    "week": "2025-06-23",
+    "newLeads": {
+      "total": 33,
+      "totalValue": 50400000,
+      "buy": 22,
+      "buyValue": 39650000,
+      "sell": 10,
+      "sellValue": 10150000
+    },
+    "apptScheduled": {
+      "buy": 10,
+      "buyValue": 18250000,
+      "sell": 3,
+      "sellValue": 3000000
+    },
+    "matching": {
+      "buy": 3,
+      "buyValue": 2400000,
+      "sell": 2,
+      "sellValue": 1650000
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 2600000,
+      "sell": 2,
+      "sellValue": 1650000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 750000,
+      "sell": 2,
+      "sellValue": 1500000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 3,
+      "buyValue": 2549000,
+      "sell": 2,
+      "sellValue": 1360000
+    }
+  },
+  {
+    "week": "2025-06-30",
+    "newLeads": {
+      "total": 29,
+      "totalValue": 71350000,
+      "buy": 24,
+      "buyValue": 62650000,
+      "sell": 5,
+      "sellValue": 8700000
+    },
+    "apptScheduled": {
+      "buy": 9,
+      "buyValue": 7950000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 6,
+      "buyValue": 6550000,
+      "sell": 1,
+      "sellValue": 1800000
+    },
+    "connecting": {
+      "buy": 6,
+      "buyValue": 5700000,
+      "sell": 2,
+      "sellValue": 2550000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1200000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 2,
+      "buyValue": 1176000,
+      "sell": 1,
+      "sellValue": 1940000
+    }
+  },
+  {
+    "week": "2025-07-07",
+    "newLeads": {
+      "total": 10,
+      "totalValue": 8200000,
+      "buy": 8,
+      "buyValue": 6400000,
+      "sell": 2,
+      "sellValue": 1800000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 6400000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 4350000,
+      "sell": 1,
+      "sellValue": 1250000
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 5432000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 3,
+      "buyValue": 3782000,
+      "sell": 1,
+      "sellValue": 3300000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-07-14",
+    "newLeads": {
+      "total": 19,
+      "totalValue": 25905000,
+      "buy": 13,
+      "buyValue": 21005000,
+      "sell": 6,
+      "sellValue": 4900000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 16750000,
+      "sell": 1,
+      "sellValue": 2250000
+    },
+    "matching": {
+      "buy": 3,
+      "buyValue": 4250000,
+      "sell": 2,
+      "sellValue": 2000000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 5400000,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 1,
+      "sellValue": 485000
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 1580000,
+      "sell": 1,
+      "sellValue": 925000
+    },
+    "paymentReceived": {
+      "buy": 2,
+      "buyValue": 3532000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-07-21",
+    "newLeads": {
+      "total": 9,
+      "totalValue": 24350000,
+      "buy": 7,
+      "buyValue": 22650000,
+      "sell": 2,
+      "sellValue": 1700000
+    },
+    "apptScheduled": {
+      "buy": 2,
+      "buyValue": 18000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 3,
+      "buyValue": 4250000,
+      "sell": 3,
+      "sellValue": 3100000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 7005000,
+      "sell": 3,
+      "sellValue": 2700000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 255000,
+      "sell": 4,
+      "sellValue": 5300000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-07-28",
+    "newLeads": {
+      "total": 21,
+      "totalValue": 18850000,
+      "buy": 14,
+      "buyValue": 13050000,
+      "sell": 7,
+      "sellValue": 5800000
+    },
+    "apptScheduled": {
+      "buy": 5,
+      "buyValue": 6600000,
+      "sell": 3,
+      "sellValue": 2350000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 1250000,
+      "sell": 1,
+      "sellValue": 800000
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 1250000,
+      "sell": 2,
+      "sellValue": 2200000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1250000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 255000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 3150000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-08-04",
+    "newLeads": {
+      "total": 23,
+      "totalValue": 35700000,
+      "buy": 22,
+      "buyValue": 35150000,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 8800000,
+      "sell": 1,
+      "sellValue": 850000
+    },
+    "matching": {
+      "buy": 5,
+      "buyValue": 5150000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 3900000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 2,
+      "sellValue": 2200000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-08-11",
+    "newLeads": {
+      "total": 20,
+      "totalValue": 26850000,
+      "buy": 18,
+      "buyValue": 21350000,
+      "sell": 2,
+      "sellValue": 5500000
+    },
+    "apptScheduled": {
+      "buy": 4,
+      "buyValue": 4600000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 6,
+      "buyValue": 7350000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 7500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 4,
+      "buyValue": 5225000,
+      "sell": 1,
+      "sellValue": 864042
+    },
+    "inEscrow": {
+      "buy": 3,
+      "buyValue": 3826900,
+      "sell": 1,
+      "sellValue": 864042
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-08-18",
+    "newLeads": {
+      "total": 32,
+      "totalValue": 57000000,
+      "buy": 25,
+      "buyValue": 50850000,
+      "sell": 7,
+      "sellValue": 6150000
+    },
+    "apptScheduled": {
+      "buy": 12,
+      "buyValue": 16100000,
+      "sell": 1,
+      "sellValue": 1500000
+    },
+    "matching": {
+      "buy": 6,
+      "buyValue": 12850000,
+      "sell": 1,
+      "sellValue": 1500000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 5950000,
+      "sell": 1,
+      "sellValue": 1500000
+    },
+    "connected": {
+      "buy": 3,
+      "buyValue": 2350000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 2000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 255000,
+      "sell": 2,
+      "sellValue": 1789042
+    }
+  },
+  {
+    "week": "2025-08-25",
+    "newLeads": {
+      "total": 25,
+      "totalValue": 47000000,
+      "buy": 18,
+      "buyValue": 32200000,
+      "sell": 7,
+      "sellValue": 14800000
+    },
+    "apptScheduled": {
+      "buy": 4,
+      "buyValue": 13500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 1250000,
+      "sell": 1,
+      "sellValue": 850000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 9250000,
+      "sell": 1,
+      "sellValue": 850000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 6500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 745000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 1100000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-09-01",
+    "newLeads": {
+      "total": 37,
+      "totalValue": 43450000,
+      "buy": 26,
+      "buyValue": 30200000,
+      "sell": 11,
+      "sellValue": 13250000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 6800000,
+      "sell": 3,
+      "sellValue": 4900000
+    },
+    "matching": {
+      "buy": 5,
+      "buyValue": 7800000,
+      "sell": 3,
+      "sellValue": 5250000
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 5650000,
+      "sell": 3,
+      "sellValue": 5250000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 600000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-09-08",
+    "newLeads": {
+      "total": 18,
+      "totalValue": 32000000,
+      "buy": 18,
+      "buyValue": 32000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "apptScheduled": {
+      "buy": 9,
+      "buyValue": 7310000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 1060000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 3550000,
+      "sell": 1,
+      "sellValue": 900000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 3000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 3,
+      "buyValue": 6209995,
+      "sell": 2,
+      "sellValue": 2845000
+    },
+    "paymentReceived": {
+      "buy": 2,
+      "buyValue": 1928890,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-09-15",
+    "newLeads": {
+      "total": 22,
+      "totalValue": 30250000,
+      "buy": 18,
+      "buyValue": 26000000,
+      "sell": 4,
+      "sellValue": 4250000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 15000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 5,
+      "buyValue": 5750000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 3460000,
+      "sell": 1,
+      "sellValue": 4250000
+    },
+    "connected": {
+      "buy": 4,
+      "buyValue": 7460000,
+      "sell": 2,
+      "sellValue": 5750000
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 600000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-09-22",
+    "newLeads": {
+      "total": 17,
+      "totalValue": 35150000,
+      "buy": 14,
+      "buyValue": 22900000,
+      "sell": 3,
+      "sellValue": 12250000
+    },
+    "apptScheduled": {
+      "buy": 3,
+      "buyValue": 3750000,
+      "sell": 1,
+      "sellValue": 1250000
+    },
+    "matching": {
+      "buy": 7,
+      "buyValue": 7300000,
+      "sell": 1,
+      "sellValue": 1250000
+    },
+    "connecting": {
+      "buy": 8,
+      "buyValue": 8750000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 460000,
+      "sell": 2,
+      "sellValue": 1492000
+    },
+    "paymentReceived": {
+      "buy": 3,
+      "buyValue": 5189995,
+      "sell": 2,
+      "sellValue": 2189000
+    }
+  },
+  {
+    "week": "2025-09-29",
+    "newLeads": {
+      "total": 22,
+      "totalValue": 21375000,
+      "buy": 13,
+      "buyValue": 11100000,
+      "sell": 8,
+      "sellValue": 10025000
+    },
+    "apptScheduled": {
+      "buy": 5,
+      "buyValue": 6300000,
+      "sell": 5,
+      "sellValue": 7600000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 1250000,
+      "sell": 3,
+      "sellValue": 3125000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 1450000,
+      "sell": 2,
+      "sellValue": 2650000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 3250000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 2,
+      "buyValue": 4706324,
+      "sell": 1,
+      "sellValue": 495000
+    }
+  },
+  {
+    "week": "2025-10-06",
+    "newLeads": {
+      "total": 16,
+      "totalValue": 47875000,
+      "buy": 14,
+      "buyValue": 36625000,
+      "sell": 2,
+      "sellValue": 11250000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 14700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 3,
+      "buyValue": 4225000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 4725000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 5000000,
+      "sell": 1,
+      "sellValue": 1250000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 2,
+      "buyValue": 4345000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-10-13",
+    "newLeads": {
+      "total": 21,
+      "totalValue": 43250000,
+      "buy": 14,
+      "buyValue": 28750000,
+      "sell": 6,
+      "sellValue": 13900000
+    },
+    "apptScheduled": {
+      "buy": 4,
+      "buyValue": 12400000,
+      "sell": 1,
+      "sellValue": 650000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 1550000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 1500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 610000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-10-20",
+    "newLeads": {
+      "total": 20,
+      "totalValue": 41150000,
+      "buy": 17,
+      "buyValue": 37050000,
+      "sell": 3,
+      "sellValue": 4100000
+    },
+    "apptScheduled": {
+      "buy": 8,
+      "buyValue": 16250000,
+      "sell": 1,
+      "sellValue": 850000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 2100000,
+      "sell": 1,
+      "sellValue": 475000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 1150000,
+      "sell": 1,
+      "sellValue": 475000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 600000,
+      "sell": 1,
+      "sellValue": 650000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 753000
+    }
+  },
+  {
+    "week": "2025-10-27",
+    "newLeads": {
+      "total": 16,
+      "totalValue": 24750000,
+      "buy": 13,
+      "buyValue": 21800000,
+      "sell": 3,
+      "sellValue": 2950000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 16400000,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 4000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 5500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 475000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-11-03",
+    "newLeads": {
+      "total": 21,
+      "totalValue": 27450000,
+      "buy": 15,
+      "buyValue": 23700000,
+      "sell": 6,
+      "sellValue": 3750000
+    },
+    "apptScheduled": {
+      "buy": 5,
+      "buyValue": 6100000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 7200000,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 3200000,
+      "sell": 1,
+      "sellValue": 550000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 3,
+      "buyValue": 3170000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-11-10",
+    "newLeads": {
+      "total": 14,
+      "totalValue": 23800000,
+      "buy": 9,
+      "buyValue": 18250000,
+      "sell": 5,
+      "sellValue": 5550000
+    },
+    "apptScheduled": {
+      "buy": 3,
+      "buyValue": 3000000,
+      "sell": 2,
+      "sellValue": 1300000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 3,
+      "sellValue": 3600000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 5000000,
+      "sell": 3,
+      "sellValue": 3600000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 1000000,
+      "sell": 1,
+      "sellValue": 1350000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 1565000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-11-17",
+    "newLeads": {
+      "total": 10,
+      "totalValue": 8850000,
+      "buy": 8,
+      "buyValue": 7550000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "apptScheduled": {
+      "buy": 2,
+      "buyValue": 2000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 3,
+      "buyValue": 3950000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 899000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 707000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-11-24",
+    "newLeads": {
+      "total": 19,
+      "totalValue": 24000000,
+      "buy": 14,
+      "buyValue": 19750000,
+      "sell": 4,
+      "sellValue": 4000000
+    },
+    "apptScheduled": {
+      "buy": 2,
+      "buyValue": 1750000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "matching": {
+      "buy": 6,
+      "buyValue": 10000000,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 7750000,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 500000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-12-01",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 11500000,
+      "buy": 4,
+      "buyValue": 4500000,
+      "sell": 4,
+      "sellValue": 7000000
+    },
+    "apptScheduled": {
+      "buy": 3,
+      "buyValue": 3750000,
+      "sell": 1,
+      "sellValue": 2000000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 2250000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 2200000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 627500,
+      "sell": 2,
+      "sellValue": 2809000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-12-08",
+    "newLeads": {
+      "total": 4,
+      "totalValue": 5600000,
+      "buy": 2,
+      "buyValue": 2250000,
+      "sell": 2,
+      "sellValue": 3350000
+    },
+    "apptScheduled": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 2,
+      "sellValue": 2350000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 2000000
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 3,
+      "sellValue": 6000000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-12-15",
+    "newLeads": {
+      "total": 8,
+      "totalValue": 7400000,
+      "buy": 6,
+      "buyValue": 5400000,
+      "sell": 2,
+      "sellValue": 2000000
+    },
+    "apptScheduled": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 750000,
+      "sell": 1,
+      "sellValue": 1700000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 2750000,
+      "sell": 1,
+      "sellValue": 1700000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 3000000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 1405000
+    }
+  },
+  {
+    "week": "2025-12-22",
+    "newLeads": {
+      "total": 16,
+      "totalValue": 15550000,
+      "buy": 11,
+      "buyValue": 9050000,
+      "sell": 2,
+      "sellValue": 2750000
+    },
+    "apptScheduled": {
+      "buy": 2,
+      "buyValue": 2750000,
+      "sell": 1,
+      "sellValue": 2000000
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 455000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 1030000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2025-12-29",
+    "newLeads": {
+      "total": 29,
+      "totalValue": 21200000,
+      "buy": 23,
+      "buyValue": 14450000,
+      "sell": 6,
+      "sellValue": 6750000
+    },
+    "apptScheduled": {
+      "buy": 8,
+      "buyValue": 4700000,
+      "sell": 1,
+      "sellValue": 500000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 2400000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 2000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 1877500,
+      "sell": 1,
+      "sellValue": 1250000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-01-05",
+    "newLeads": {
+      "total": 30,
+      "totalValue": 24700000,
+      "buy": 23,
+      "buyValue": 16350000,
+      "sell": 5,
+      "sellValue": 7100000
+    },
+    "apptScheduled": {
+      "buy": 6,
+      "buyValue": 4850000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 450000,
+      "sell": 1,
+      "sellValue": 2100000
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 450000,
+      "sell": 1,
+      "sellValue": 2100000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 1325000,
+      "sell": 1,
+      "sellValue": 1700000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-01-12",
+    "newLeads": {
+      "total": 33,
+      "totalValue": 31600000,
+      "buy": 30,
+      "buyValue": 26850000,
+      "sell": 3,
+      "sellValue": 4750000
+    },
+    "apptScheduled": {
+      "buy": 3,
+      "buyValue": 3800000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 6,
+      "buyValue": 7050000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 4250000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 455000,
+      "sell": 1,
+      "sellValue": 700000
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 899000,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-01-19",
+    "newLeads": {
+      "total": 39,
+      "totalValue": 30350000,
+      "buy": 31,
+      "buyValue": 20350000,
+      "sell": 8,
+      "sellValue": 10000000
+    },
+    "apptScheduled": {
+      "buy": 8,
+      "buyValue": 4750000,
+      "sell": 5,
+      "sellValue": 6500000
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 2300000,
+      "sell": 2,
+      "sellValue": 4000000
+    },
+    "connecting": {
+      "buy": 5,
+      "buyValue": 4300000,
+      "sell": 2,
+      "sellValue": 4000000
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 560000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-01-26",
+    "newLeads": {
+      "total": 36,
+      "totalValue": 18300000,
+      "buy": 32,
+      "buyValue": 16150000,
+      "sell": 4,
+      "sellValue": 2150000
+    },
+    "apptScheduled": {
+      "buy": 8,
+      "buyValue": 6950000,
+      "sell": 2,
+      "sellValue": 1000000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 650000,
+      "sell": 2,
+      "sellValue": 1950000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 800000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 2250000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-02-01",
+    "newLeads": {
+      "total": 60,
+      "totalValue": 26350000,
+      "buy": 55,
+      "buyValue": 23150000,
+      "sell": 5,
+      "sellValue": 3200000
+    },
+    "apptScheduled": {
+      "buy": 25,
+      "buyValue": 11050000,
+      "sell": 3,
+      "sellValue": 2150000
+    },
+    "matching": {
+      "buy": 3,
+      "buyValue": 2350000,
+      "sell": 2,
+      "sellValue": 2100000
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 2450000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 900000,
+      "sell": 1,
+      "sellValue": 1000000
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 1,
+      "sellValue": 720000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-02-08",
+    "newLeads": {
+      "total": 68,
+      "totalValue": 31250000,
+      "buy": 66,
+      "buyValue": 28250000,
+      "sell": 2,
+      "sellValue": 3000000
+    },
+    "apptScheduled": {
+      "buy": 18,
+      "buyValue": 6950000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 650000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 1750000,
+      "sell": 2,
+      "sellValue": 1650000
+    },
+    "connected": {
+      "buy": 2,
+      "buyValue": 2700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 1256250,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 455000,
+      "sell": 1,
+      "sellValue": 720000
+    }
+  },
+  {
+    "week": "2026-02-15",
+    "newLeads": {
+      "total": 59,
+      "totalValue": 34600000,
+      "buy": 58,
+      "buyValue": 33850000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "apptScheduled": {
+      "buy": 15,
+      "buyValue": 7750000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 850000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 1650000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 400000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-02-22",
+    "newLeads": {
+      "total": 62,
+      "totalValue": 28900000,
+      "buy": 54,
+      "buyValue": 23500000,
+      "sell": 8,
+      "sellValue": 5400000
+    },
+    "apptScheduled": {
+      "buy": 9,
+      "buyValue": 3900000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "matching": {
+      "buy": 3,
+      "buyValue": 3500000,
+      "sell": 3,
+      "sellValue": 2450000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 2450000,
+      "sell": 4,
+      "sellValue": 3400000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 600000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 245000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-03-01",
+    "newLeads": {
+      "total": 42,
+      "totalValue": 27650000,
+      "buy": 38,
+      "buyValue": 23900000,
+      "sell": 4,
+      "sellValue": 3750000
+    },
+    "apptScheduled": {
+      "buy": 8,
+      "buyValue": 5650000,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "matching": {
+      "buy": 3,
+      "buyValue": 4050000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "connecting": {
+      "buy": 4,
+      "buyValue": 3350000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "connected": {
+      "buy": 3,
+      "buyValue": 1675000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 324990,
+      "sell": 1,
+      "sellValue": 1015000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-03-08",
+    "newLeads": {
+      "total": 44,
+      "totalValue": 30050000,
+      "buy": 41,
+      "buyValue": 26700000,
+      "sell": 3,
+      "sellValue": 3350000
+    },
+    "apptScheduled": {
+      "buy": 10,
+      "buyValue": 6300000,
+      "sell": 2,
+      "sellValue": 1350000
+    },
+    "matching": {
+      "buy": 2,
+      "buyValue": 1750000,
+      "sell": 1,
+      "sellValue": 600000
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 2750000,
+      "sell": 1,
+      "sellValue": 600000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 1700000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-03-15",
+    "newLeads": {
+      "total": 36,
+      "totalValue": 14499999,
+      "buy": 33,
+      "buyValue": 12500000,
+      "sell": 2,
+      "sellValue": 1599999
+    },
+    "apptScheduled": {
+      "buy": 10,
+      "buyValue": 4200000,
+      "sell": 1,
+      "sellValue": 599999
+    },
+    "matching": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 1,
+      "buyValue": 1000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 1,
+      "buyValue": 775000,
+      "sell": 1,
+      "sellValue": 460000
+    },
+    "paymentReceived": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    }
+  },
+  {
+    "week": "2026-03-22",
+    "newLeads": {
+      "total": 34,
+      "totalValue": 22300000,
+      "buy": 32,
+      "buyValue": 20050000,
+      "sell": 2,
+      "sellValue": 2250000
+    },
+    "apptScheduled": {
+      "buy": 9,
+      "buyValue": 7650000,
+      "sell": 2,
+      "sellValue": 3000000
+    },
+    "matching": {
+      "buy": 4,
+      "buyValue": 3550000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 3,
+      "buyValue": 1550000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connected": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "inEscrow": {
+      "buy": 0,
+      "buyValue": 0,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 324990,
+      "sell": 0,
+      "sellValue": 0
+    }
+  }
+]
