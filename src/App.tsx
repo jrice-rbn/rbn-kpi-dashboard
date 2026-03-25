@@ -13,6 +13,16 @@ const funnelData = funnelDataRaw as FunnelWeek[]
 const scorecardData = scorecardDataRaw as ScorecardWeek[]
 const financialData = financialDataRaw as FinancialWeek[]
 
+// SHA-256 hash of the password — update by running:
+// echo -n "yourpassword" | shasum -a 256
+const PASSWORD_HASH = '6f0853e81dafcb5cf4cc9a70d386a6a4cd4af4170d66558f163ea3aeefe9ecf1'
+
+async function hashPassword(pw: string): Promise<string> {
+  const data = new TextEncoder().encode(pw)
+  const buf = await crypto.subtle.digest('SHA-256', data)
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('')
+}
+
 type Section = 'summary' | 'funnel' | 'financial' | 'scorecard'
 
 const NAV: { key: Section; label: string }[] = [
@@ -33,7 +43,51 @@ function filterByRange<T extends { week: string }>(data: T[], range: string): T[
   return data.slice(-weeks)
 }
 
+function LoginGate({ onAuth }: { onAuth: () => void }) {
+  const [pw, setPw] = useState('')
+  const [error, setError] = useState(false)
+
+  const handleSubmit = async (e: React.FormEvent) => {
+    e.preventDefault()
+    const hash = await hashPassword(pw)
+    if (hash === PASSWORD_HASH) {
+      sessionStorage.setItem('rbn-kpi-auth', 'true')
+      onAuth()
+    } else {
+      setError(true)
+      setPw('')
+    }
+  }
+
+  return (
+    <div className="min-h-screen bg-gray-50 flex items-center justify-center">
+      <form onSubmit={handleSubmit} className="bg-white rounded-xl border border-gray-200 p-8 w-80 space-y-4">
+        <div className="text-center">
+          <div className="text-xl font-bold text-gray-900">RBN</div>
+          <div className="text-sm text-gray-500">Executive KPI Dashboard</div>
+        </div>
+        <input
+          type="password"
+          value={pw}
+          onChange={e => { setPw(e.target.value); setError(false) }}
+          placeholder="Enter password"
+          autoFocus
+          className="w-full px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 focus:border-transparent"
+        />
+        {error && <div className="text-red-500 text-sm">Incorrect password</div>}
+        <button
+          type="submit"
+          className="w-full bg-indigo-600 text-white py-2 rounded-lg text-sm font-medium hover:bg-indigo-700 transition-colors"
+        >
+          Sign In
+        </button>
+      </form>
+    </div>
+  )
+}
+
 export default function App() {
+  const [authed, setAuthed] = useState(() => sessionStorage.getItem('rbn-kpi-auth') === 'true')
   const [section, setSection] = useState<Section>('summary')
   const [range, setRange] = useState('26')
 
@@ -42,6 +96,8 @@ export default function App() {
   const filteredFinancial = useMemo(() => filterByRange(financialData, range), [range])
 
   const latestWeek = funnelData.length > 0 ? funnelData[funnelData.length - 1].week : 'N/A'
+
+  if (!authed) return <LoginGate onAuth={() => setAuthed(true)} />
 
   return (
     <div className="min-h-screen bg-gray-50">
@@ -53,8 +109,16 @@ export default function App() {
               <div className="text-xl font-bold text-gray-900">RBN</div>
               <div className="text-sm text-gray-500">Executive KPI Dashboard</div>
             </div>
-            <div className="text-sm text-gray-400">
-              Last updated: {latestWeek}
+            <div className="flex items-center gap-4">
+              <div className="text-sm text-gray-400">
+                Last updated: {latestWeek}
+              </div>
+              <button
+                onClick={() => { sessionStorage.removeItem('rbn-kpi-auth'); setAuthed(false) }}
+                className="text-sm text-gray-400 hover:text-gray-600"
+              >
+                Sign out
+              </button>
             </div>
           </div>
           {/* Nav */}
