@@ -1,52 +1,891 @@
 [
-  { "week": "2023-10-23", "referralFees": 41920, "cumReferralFees": 41920, "weeklyRevenue": 13973, "weeklyAdSpend": 5800 },
-  { "week": "2023-10-30", "referralFees": 0, "cumReferralFees": 41920, "weeklyRevenue": 0, "weeklyAdSpend": 5800 },
-  { "week": "2023-11-06", "referralFees": 55488, "cumReferralFees": 97408, "weeklyRevenue": 18496, "weeklyAdSpend": 5800 },
-  { "week": "2023-11-13", "referralFees": 10605, "cumReferralFees": 108013, "weeklyRevenue": 3535, "weeklyAdSpend": 5800 },
-  { "week": "2023-11-20", "referralFees": 39381, "cumReferralFees": 147394, "weeklyRevenue": 13127, "weeklyAdSpend": 5800 },
-  { "week": "2023-11-27", "referralFees": 0, "cumReferralFees": 147394, "weeklyRevenue": 0, "weeklyAdSpend": 5800 },
-  { "week": "2023-12-04", "referralFees": 6860, "cumReferralFees": 154254, "weeklyRevenue": 2287, "weeklyAdSpend": 5800 },
-  { "week": "2023-12-11", "referralFees": 27499, "cumReferralFees": 181753, "weeklyRevenue": 9166, "weeklyAdSpend": 5800 },
-  { "week": "2023-12-18", "referralFees": 27800, "cumReferralFees": 209553, "weeklyRevenue": 9267, "weeklyAdSpend": 5800 },
-  { "week": "2023-12-25", "referralFees": 60000, "cumReferralFees": 269553, "weeklyRevenue": 20000, "weeklyAdSpend": 5800 },
-  { "week": "2024-01-01", "referralFees": 9450, "cumReferralFees": 279003, "weeklyRevenue": 3150, "weeklyAdSpend": 5800 },
-  { "week": "2024-01-08", "referralFees": 6019, "cumReferralFees": 285022, "weeklyRevenue": 2006, "weeklyAdSpend": 5800 },
-  { "week": "2024-01-15", "referralFees": 31882, "cumReferralFees": 316904, "weeklyRevenue": 10627, "weeklyAdSpend": 5800 },
-  { "week": "2024-01-22", "referralFees": 0, "cumReferralFees": 316904, "weeklyRevenue": 0, "weeklyAdSpend": 5800 },
-  { "week": "2024-01-29", "referralFees": 37774, "cumReferralFees": 354678, "weeklyRevenue": 12591, "weeklyAdSpend": 5800 },
-  { "week": "2024-02-05", "referralFees": 5600, "cumReferralFees": 360278, "weeklyRevenue": 1867, "weeklyAdSpend": 5800 },
-  { "week": "2024-02-12", "referralFees": 10537, "cumReferralFees": 370815, "weeklyRevenue": 3512, "weeklyAdSpend": 5800 },
-  { "week": "2024-02-19", "referralFees": 23145, "cumReferralFees": 393960, "weeklyRevenue": 7715, "weeklyAdSpend": 5800 },
-  { "week": "2024-02-26", "referralFees": 0, "cumReferralFees": 393960, "weeklyRevenue": 0, "weeklyAdSpend": 5800 },
-  { "week": "2024-03-04", "referralFees": 7515, "cumReferralFees": 401475, "weeklyRevenue": 2505, "weeklyAdSpend": 5800 },
-  { "week": "2024-03-11", "referralFees": 47374, "cumReferralFees": 448849, "weeklyRevenue": 15791, "weeklyAdSpend": 5800 },
-  { "week": "2024-03-18", "referralFees": 7500, "cumReferralFees": 456349, "weeklyRevenue": 2500, "weeklyAdSpend": 5800 },
-  { "week": "2024-03-25", "referralFees": 18443, "cumReferralFees": 474792, "weeklyRevenue": 6148, "weeklyAdSpend": 5800 },
-  { "week": "2024-04-01", "referralFees": 1350, "cumReferralFees": 476142, "weeklyRevenue": 450, "weeklyAdSpend": 5800 },
-  { "week": "2024-04-08", "referralFees": 43045, "cumReferralFees": 519187, "weeklyRevenue": 14348, "weeklyAdSpend": 5800 },
-  { "week": "2024-04-15", "referralFees": 22688, "cumReferralFees": 541875, "weeklyRevenue": 7563, "weeklyAdSpend": 5800 },
-  { "week": "2024-04-22", "referralFees": 45621, "cumReferralFees": 587496, "weeklyRevenue": 15207, "weeklyAdSpend": 5800 },
-  { "week": "2024-04-29", "referralFees": 48254, "cumReferralFees": 635750, "weeklyRevenue": 16085, "weeklyAdSpend": 5800 },
-  { "week": "2024-05-06", "referralFees": 23400, "cumReferralFees": 659150, "weeklyRevenue": 7800, "weeklyAdSpend": 5800 },
-  { "week": "2024-05-13", "referralFees": 100566, "cumReferralFees": 759716, "weeklyRevenue": 33522, "weeklyAdSpend": 5800 },
-  { "week": "2024-05-20", "referralFees": 31278, "cumReferralFees": 790994, "weeklyRevenue": 10426, "weeklyAdSpend": 5800 },
-  { "week": "2024-05-27", "referralFees": 12923, "cumReferralFees": 803917, "weeklyRevenue": 4308, "weeklyAdSpend": 5800 },
-  { "week": "2024-06-03", "referralFees": 0, "cumReferralFees": 803917, "weeklyRevenue": 0, "weeklyAdSpend": 5800 },
-  { "week": "2024-06-10", "referralFees": 41210, "cumReferralFees": 845127, "weeklyRevenue": 13737, "weeklyAdSpend": 5800 },
-  { "week": "2024-06-17", "referralFees": 53981, "cumReferralFees": 899108, "weeklyRevenue": 17994, "weeklyAdSpend": 5800 },
-  { "week": "2024-06-24", "referralFees": 29543, "cumReferralFees": 928651, "weeklyRevenue": 9848, "weeklyAdSpend": 5800 },
-  { "week": "2024-07-01", "referralFees": 67583, "cumReferralFees": 996234, "weeklyRevenue": 22528, "weeklyAdSpend": 5800 },
-  { "week": "2024-07-08", "referralFees": 38205, "cumReferralFees": 1034439, "weeklyRevenue": 12735, "weeklyAdSpend": 5800 },
-  { "week": "2024-07-15", "referralFees": 51175, "cumReferralFees": 1085614, "weeklyRevenue": 17058, "weeklyAdSpend": 5800 },
-  { "week": "2024-07-22", "referralFees": 30339, "cumReferralFees": 1115953, "weeklyRevenue": 10113, "weeklyAdSpend": 5800 },
-  { "week": "2024-07-29", "referralFees": 0, "cumReferralFees": 1115953, "weeklyRevenue": 0, "weeklyAdSpend": 5800 },
-  { "week": "2024-08-05", "referralFees": 50206, "cumReferralFees": 1166159, "weeklyRevenue": 16735, "weeklyAdSpend": 5800 },
-  { "week": "2024-08-12", "referralFees": 22500, "cumReferralFees": 1188659, "weeklyRevenue": 7500, "weeklyAdSpend": 5800 },
-  { "week": "2024-08-19", "referralFees": 26903, "cumReferralFees": 1215562, "weeklyRevenue": 8968, "weeklyAdSpend": 5800 },
-  { "week": "2024-08-26", "referralFees": 36228, "cumReferralFees": 1251790, "weeklyRevenue": 12076, "weeklyAdSpend": 5800 },
-  { "week": "2024-09-02", "referralFees": 8325, "cumReferralFees": 1260115, "weeklyRevenue": 2775, "weeklyAdSpend": 5800 },
-  { "week": "2024-09-09", "referralFees": 13200, "cumReferralFees": 1273315, "weeklyRevenue": 4400, "weeklyAdSpend": 5800 },
-  { "week": "2024-09-16", "referralFees": 35723, "cumReferralFees": 1309038, "weeklyRevenue": 11908, "weeklyAdSpend": 5800 },
-  { "week": "2024-09-23", "referralFees": 69050, "cumReferralFees": 1378088, "weeklyRevenue": 23017, "weeklyAdSpend": 5800 },
-  { "week": "2024-09-30", "referralFees": 0, "cumReferralFees": 1378088, "weeklyRevenue": 0, "weeklyAdSpend": 5800 }
+  {
+    "week": "2023-10-23",
+    "referralFees": 41920,
+    "cumReferralFees": 41920,
+    "weeklyRevenue": 13973,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-10-30",
+    "referralFees": 0,
+    "cumReferralFees": 41920,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-11-06",
+    "referralFees": 55488,
+    "cumReferralFees": 97408,
+    "weeklyRevenue": 18496,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-11-13",
+    "referralFees": 10605,
+    "cumReferralFees": 108013,
+    "weeklyRevenue": 3535,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-11-20",
+    "referralFees": 39381,
+    "cumReferralFees": 147394,
+    "weeklyRevenue": 13127,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-11-27",
+    "referralFees": 0,
+    "cumReferralFees": 147394,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-12-04",
+    "referralFees": 6860,
+    "cumReferralFees": 154254,
+    "weeklyRevenue": 2287,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-12-11",
+    "referralFees": 27499,
+    "cumReferralFees": 181753,
+    "weeklyRevenue": 9166,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-12-18",
+    "referralFees": 27800,
+    "cumReferralFees": 209553,
+    "weeklyRevenue": 9267,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2023-12-25",
+    "referralFees": 60000,
+    "cumReferralFees": 269553,
+    "weeklyRevenue": 20000,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-01-01",
+    "referralFees": 9450,
+    "cumReferralFees": 279003,
+    "weeklyRevenue": 3150,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-01-08",
+    "referralFees": 6019,
+    "cumReferralFees": 285022,
+    "weeklyRevenue": 2006,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-01-15",
+    "referralFees": 31882,
+    "cumReferralFees": 316904,
+    "weeklyRevenue": 10627,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-01-22",
+    "referralFees": 0,
+    "cumReferralFees": 316904,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-01-29",
+    "referralFees": 37774,
+    "cumReferralFees": 354678,
+    "weeklyRevenue": 12591,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-02-05",
+    "referralFees": 5600,
+    "cumReferralFees": 360278,
+    "weeklyRevenue": 1867,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-02-12",
+    "referralFees": 10537,
+    "cumReferralFees": 370815,
+    "weeklyRevenue": 3512,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-02-19",
+    "referralFees": 23145,
+    "cumReferralFees": 393960,
+    "weeklyRevenue": 7715,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-02-26",
+    "referralFees": 0,
+    "cumReferralFees": 393960,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-03-04",
+    "referralFees": 7515,
+    "cumReferralFees": 401475,
+    "weeklyRevenue": 2505,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-03-11",
+    "referralFees": 47374,
+    "cumReferralFees": 448849,
+    "weeklyRevenue": 15791,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-03-18",
+    "referralFees": 7500,
+    "cumReferralFees": 456349,
+    "weeklyRevenue": 2500,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-03-25",
+    "referralFees": 18443,
+    "cumReferralFees": 474792,
+    "weeklyRevenue": 6148,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-04-01",
+    "referralFees": 1350,
+    "cumReferralFees": 476142,
+    "weeklyRevenue": 450,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-04-08",
+    "referralFees": 43045,
+    "cumReferralFees": 519187,
+    "weeklyRevenue": 14348,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-04-15",
+    "referralFees": 22688,
+    "cumReferralFees": 541875,
+    "weeklyRevenue": 7563,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-04-22",
+    "referralFees": 45621,
+    "cumReferralFees": 587496,
+    "weeklyRevenue": 15207,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-04-29",
+    "referralFees": 48254,
+    "cumReferralFees": 635750,
+    "weeklyRevenue": 16085,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-05-06",
+    "referralFees": 23400,
+    "cumReferralFees": 659150,
+    "weeklyRevenue": 7800,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-05-13",
+    "referralFees": 100566,
+    "cumReferralFees": 759716,
+    "weeklyRevenue": 33522,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-05-20",
+    "referralFees": 31278,
+    "cumReferralFees": 790994,
+    "weeklyRevenue": 10426,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-05-27",
+    "referralFees": 12923,
+    "cumReferralFees": 803917,
+    "weeklyRevenue": 4308,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-06-03",
+    "referralFees": 0,
+    "cumReferralFees": 803917,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-06-10",
+    "referralFees": 41210,
+    "cumReferralFees": 845127,
+    "weeklyRevenue": 13737,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-06-17",
+    "referralFees": 53981,
+    "cumReferralFees": 899108,
+    "weeklyRevenue": 17994,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-06-24",
+    "referralFees": 29543,
+    "cumReferralFees": 928651,
+    "weeklyRevenue": 9848,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-07-01",
+    "referralFees": 67583,
+    "cumReferralFees": 996234,
+    "weeklyRevenue": 22528,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-07-08",
+    "referralFees": 38205,
+    "cumReferralFees": 1034439,
+    "weeklyRevenue": 12735,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-07-15",
+    "referralFees": 51175,
+    "cumReferralFees": 1085614,
+    "weeklyRevenue": 17058,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-07-22",
+    "referralFees": 30339,
+    "cumReferralFees": 1115953,
+    "weeklyRevenue": 10113,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-07-29",
+    "referralFees": 0,
+    "cumReferralFees": 1115953,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-08-05",
+    "referralFees": 50206,
+    "cumReferralFees": 1166159,
+    "weeklyRevenue": 16735,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-08-12",
+    "referralFees": 22500,
+    "cumReferralFees": 1188659,
+    "weeklyRevenue": 7500,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-08-19",
+    "referralFees": 26903,
+    "cumReferralFees": 1215562,
+    "weeklyRevenue": 8968,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-08-26",
+    "referralFees": 36228,
+    "cumReferralFees": 1251790,
+    "weeklyRevenue": 12076,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-09-02",
+    "referralFees": 8325,
+    "cumReferralFees": 1260115,
+    "weeklyRevenue": 2775,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-09-09",
+    "referralFees": 13200,
+    "cumReferralFees": 1273315,
+    "weeklyRevenue": 4400,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-09-16",
+    "referralFees": 35723,
+    "cumReferralFees": 1309038,
+    "weeklyRevenue": 11908,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-09-23",
+    "referralFees": 69050,
+    "cumReferralFees": 1378088,
+    "weeklyRevenue": 23017,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-09-30",
+    "referralFees": 0,
+    "cumReferralFees": 1378088,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-10-07",
+    "referralFees": 19375,
+    "cumReferralFees": 1397463,
+    "weeklyRevenue": 6458,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-10-14",
+    "referralFees": 25083,
+    "cumReferralFees": 1422546,
+    "weeklyRevenue": 8361,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-10-21",
+    "referralFees": 0,
+    "cumReferralFees": 1422546,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-10-28",
+    "referralFees": 30712,
+    "cumReferralFees": 1453258,
+    "weeklyRevenue": 10237,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-11-04",
+    "referralFees": 0,
+    "cumReferralFees": 1453258,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-11-11",
+    "referralFees": 10969,
+    "cumReferralFees": 1464227,
+    "weeklyRevenue": 3656,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-11-18",
+    "referralFees": 30000,
+    "cumReferralFees": 1494227,
+    "weeklyRevenue": 10000,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-11-25",
+    "referralFees": 25492,
+    "cumReferralFees": 1519719,
+    "weeklyRevenue": 8497,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-12-02",
+    "referralFees": 10813,
+    "cumReferralFees": 1530532,
+    "weeklyRevenue": 3604,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-12-09",
+    "referralFees": 0,
+    "cumReferralFees": 1530532,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-12-16",
+    "referralFees": 43370,
+    "cumReferralFees": 1573902,
+    "weeklyRevenue": 14457,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-12-23",
+    "referralFees": 89780,
+    "cumReferralFees": 1663682,
+    "weeklyRevenue": 29927,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2024-12-30",
+    "referralFees": 18863,
+    "cumReferralFees": 1682545,
+    "weeklyRevenue": 6288,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-01-06",
+    "referralFees": 51042,
+    "cumReferralFees": 1733587,
+    "weeklyRevenue": 17014,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-01-13",
+    "referralFees": 0,
+    "cumReferralFees": 1733587,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-01-20",
+    "referralFees": 23288,
+    "cumReferralFees": 1756875,
+    "weeklyRevenue": 7763,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-01-27",
+    "referralFees": 10213,
+    "cumReferralFees": 1767088,
+    "weeklyRevenue": 3404,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-02-03",
+    "referralFees": 6938,
+    "cumReferralFees": 1774026,
+    "weeklyRevenue": 2313,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-02-10",
+    "referralFees": 9125,
+    "cumReferralFees": 1783151,
+    "weeklyRevenue": 3042,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-02-17",
+    "referralFees": 0,
+    "cumReferralFees": 1783151,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-02-24",
+    "referralFees": 0,
+    "cumReferralFees": 1783151,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-03-03",
+    "referralFees": 0,
+    "cumReferralFees": 1783151,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-03-10",
+    "referralFees": 35625,
+    "cumReferralFees": 1818776,
+    "weeklyRevenue": 11875,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-03-17",
+    "referralFees": 7062,
+    "cumReferralFees": 1825838,
+    "weeklyRevenue": 2354,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-03-24",
+    "referralFees": 0,
+    "cumReferralFees": 1825838,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-03-31",
+    "referralFees": 0,
+    "cumReferralFees": 1825838,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-04-07",
+    "referralFees": 68483,
+    "cumReferralFees": 1894321,
+    "weeklyRevenue": 22828,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-04-14",
+    "referralFees": 7281,
+    "cumReferralFees": 1901602,
+    "weeklyRevenue": 22828,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-04-21",
+    "referralFees": 0,
+    "cumReferralFees": 1901602,
+    "weeklyRevenue": 2427,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-04-28",
+    "referralFees": 0,
+    "cumReferralFees": 1901602,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-05-05",
+    "referralFees": 10000,
+    "cumReferralFees": 1911602,
+    "weeklyRevenue": 3333,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-05-12",
+    "referralFees": 6063,
+    "cumReferralFees": 1917665,
+    "weeklyRevenue": 2021,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-05-19",
+    "referralFees": 0,
+    "cumReferralFees": 1917665,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-05-26",
+    "referralFees": 9616,
+    "cumReferralFees": 1927281,
+    "weeklyRevenue": 3205,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-06-02",
+    "referralFees": 66395,
+    "cumReferralFees": 1993676,
+    "weeklyRevenue": 22132,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-06-09",
+    "referralFees": 19375,
+    "cumReferralFees": 2013051,
+    "weeklyRevenue": 6458,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-06-16",
+    "referralFees": 22575,
+    "cumReferralFees": 2035626,
+    "weeklyRevenue": 7525,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-06-23",
+    "referralFees": 92968,
+    "cumReferralFees": 2128594,
+    "weeklyRevenue": 30989,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-06-30",
+    "referralFees": 22575,
+    "cumReferralFees": 2151169,
+    "weeklyRevenue": 7525,
+    "weeklyAdSpend": 12250
+  },
+  {
+    "week": "2025-07-07",
+    "referralFees": 18760,
+    "cumReferralFees": 2169929,
+    "weeklyRevenue": 6253,
+    "weeklyAdSpend": 3063
+  },
+  {
+    "week": "2025-07-14",
+    "referralFees": 0,
+    "cumReferralFees": 2169929,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 3063
+  },
+  {
+    "week": "2025-07-21",
+    "referralFees": 41855,
+    "cumReferralFees": 2211784,
+    "weeklyRevenue": 13952,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-07-28",
+    "referralFees": 31475,
+    "cumReferralFees": 2243259,
+    "weeklyRevenue": 10492,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-08-04",
+    "referralFees": 1000,
+    "cumReferralFees": 2244259,
+    "weeklyRevenue": 333,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-08-11",
+    "referralFees": 26836,
+    "cumReferralFees": 2271095,
+    "weeklyRevenue": 8945,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-08-18",
+    "referralFees": 2550,
+    "cumReferralFees": 2273645,
+    "weeklyRevenue": 850,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-08-25",
+    "referralFees": 16500,
+    "cumReferralFees": 2290145,
+    "weeklyRevenue": 5500,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-09-01",
+    "referralFees": 15771,
+    "cumReferralFees": 2305916,
+    "weeklyRevenue": 5257,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-09-08",
+    "referralFees": 24362,
+    "cumReferralFees": 2330278,
+    "weeklyRevenue": 8121,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-09-15",
+    "referralFees": 41563,
+    "cumReferralFees": 2371841,
+    "weeklyRevenue": 13854,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-09-22",
+    "referralFees": 49637,
+    "cumReferralFees": 2421478,
+    "weeklyRevenue": 16546,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-09-29",
+    "referralFees": 49320,
+    "cumReferralFees": 2470798,
+    "weeklyRevenue": 16440,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-10-06",
+    "referralFees": 55813,
+    "cumReferralFees": 2526611,
+    "weeklyRevenue": 18604,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-10-13",
+    "referralFees": 9313,
+    "cumReferralFees": 2535924,
+    "weeklyRevenue": 3104,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-10-20",
+    "referralFees": 10354,
+    "cumReferralFees": 2546278,
+    "weeklyRevenue": 3451,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-10-27",
+    "referralFees": 0,
+    "cumReferralFees": 2546278,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-11-03",
+    "referralFees": 29375,
+    "cumReferralFees": 2575653,
+    "weeklyRevenue": 9792,
+    "weeklyAdSpend": 5250
+  },
+  {
+    "week": "2025-11-10",
+    "referralFees": 0,
+    "cumReferralFees": 2575653,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-11-17",
+    "referralFees": 24588,
+    "cumReferralFees": 2600241,
+    "weeklyRevenue": 8196,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-11-24",
+    "referralFees": 6100,
+    "cumReferralFees": 2606341,
+    "weeklyRevenue": 2033,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-12-01",
+    "referralFees": 0,
+    "cumReferralFees": 2606341,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-12-08",
+    "referralFees": 0,
+    "cumReferralFees": 2606341,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-12-15",
+    "referralFees": 17563,
+    "cumReferralFees": 2623904,
+    "weeklyRevenue": 5854,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-12-22",
+    "referralFees": 15450,
+    "cumReferralFees": 2639354,
+    "weeklyRevenue": 5150,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2025-12-29",
+    "referralFees": 0,
+    "cumReferralFees": 2639354,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-01-05",
+    "referralFees": 0,
+    "cumReferralFees": 2639354,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-01-12",
+    "referralFees": 11237,
+    "cumReferralFees": 2650591,
+    "weeklyRevenue": 3746,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-01-19",
+    "referralFees": 17238,
+    "cumReferralFees": 2667829,
+    "weeklyRevenue": 5746,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-01-26",
+    "referralFees": 0,
+    "cumReferralFees": 2667829,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-02-01",
+    "referralFees": 10765,
+    "cumReferralFees": 2678594,
+    "weeklyRevenue": 3588,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-02-08",
+    "referralFees": 6143,
+    "cumReferralFees": 2684737,
+    "weeklyRevenue": 2048,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-02-15",
+    "referralFees": 0,
+    "cumReferralFees": 2684737,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-02-22",
+    "referralFees": 0,
+    "cumReferralFees": 2684737,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-03-01",
+    "referralFees": 0,
+    "cumReferralFees": 2684737,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-03-08",
+    "referralFees": 34500,
+    "cumReferralFees": 2719237,
+    "weeklyRevenue": 11500,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-03-15",
+    "referralFees": 24813,
+    "cumReferralFees": 2744050,
+    "weeklyRevenue": 8271,
+    "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-03-22",
+    "referralFees": 0,
+    "cumReferralFees": 2744050,
+    "weeklyRevenue": 0,
+    "weeklyAdSpend": 5800
+  }
 ]
