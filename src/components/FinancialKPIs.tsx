@@ -50,7 +50,7 @@ export default function FinancialKPIs({ data }: Props) {
               <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
               <XAxis dataKey="week" tick={{ fontSize: 11 }} interval={Math.max(Math.floor(data.length / 10) - 1, 0)} />
               <YAxis tick={{ fontSize: 11 }} tickFormatter={v => `$${(v / 1000).toFixed(0)}K`} />
-              <Tooltip formatter={(v: number) => formatCurrency(v)} />
+              <Tooltip formatter={(v) => formatCurrency(Number(v))} />
               <Area type="monotone" dataKey="cumFees" fill="#d1fae5" stroke="#10b981" strokeWidth={2} name="Cumulative" />
             </ComposedChart>
           </ResponsiveContainer>
@@ -67,7 +67,7 @@ export default function FinancialKPIs({ data }: Props) {
                 <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
                 <XAxis dataKey="week" tick={{ fontSize: 10 }} interval={Math.max(Math.floor(data.length / 8) - 1, 0)} />
                 <YAxis tick={{ fontSize: 10 }} tickFormatter={v => `$${(v / 1000).toFixed(0)}K`} />
-                <Tooltip formatter={(v: number) => formatCurrency(v)} />
+                <Tooltip formatter={(v) => formatCurrency(Number(v))} />
                 <Bar dataKey="referralFees" fill="#10b981" name="Referral Fees" radius={[4, 4, 0, 0]} />
               </BarChart>
             </ResponsiveContainer>
@@ -81,7 +81,7 @@ export default function FinancialKPIs({ data }: Props) {
                 <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
                 <XAxis dataKey="week" tick={{ fontSize: 10 }} interval={Math.max(Math.floor(data.length / 8) - 1, 0)} />
                 <YAxis tick={{ fontSize: 10 }} tickFormatter={v => `$${(v / 1000).toFixed(0)}K`} />
-                <Tooltip formatter={(v: number) => formatCurrency(v)} />
+                <Tooltip formatter={(v) => formatCurrency(Number(v))} />
                 <Legend />
                 <Line type="monotone" dataKey="revenue" stroke="#6366f1" strokeWidth={2} dot={false} name="Revenue" />
                 <Line type="monotone" dataKey="adSpend" stroke="#ef4444" strokeWidth={2} dot={false} name="Ad Spend" />

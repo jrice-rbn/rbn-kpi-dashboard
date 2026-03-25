@@ -122,7 +122,7 @@ export default function WeeklyScorecard({ data }: Props) {
                 <CartesianGrid strokeDasharray="3 3" stroke="#f0f0f0" />
                 <XAxis dataKey="week" tick={{ fontSize: 10 }} interval={interval} />
                 <YAxis tick={{ fontSize: 10 }} tickFormatter={v => `$${(v / 1000).toFixed(0)}K`} />
-                <Tooltip formatter={(v: number) => formatCurrency(v)} />
+                <Tooltip formatter={(v) => formatCurrency(Number(v))} />
                 <Bar dataKey="referralFees" fill="#10b981" name="Referral Fees" radius={[4, 4, 0, 0]} />
               </BarChart>
             </ResponsiveContainer>
