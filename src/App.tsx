@@ -2,15 +2,12 @@ import { useState, useMemo } from 'react'
 import ExecutiveSummary from './components/ExecutiveSummary'
 import FunnelPipeline from './components/FunnelPipeline'
 import FinancialKPIs from './components/FinancialKPIs'
-import WeeklyScorecard from './components/WeeklyScorecard'
 import DateRangeFilter from './components/DateRangeFilter'
 import funnelDataRaw from './data/funnel_data.json'
-import scorecardDataRaw from './data/scorecard_data.json'
 import financialDataRaw from './data/financial_data.json'
-import type { FunnelWeek, ScorecardWeek, FinancialWeek } from './types'
+import type { FunnelWeek, FinancialWeek } from './types'
 
 const funnelData = funnelDataRaw as FunnelWeek[]
-const scorecardData = scorecardDataRaw as ScorecardWeek[]
 const financialData = financialDataRaw as FinancialWeek[]
 
 // SHA-256 hash of the password — update by running:
@@ -23,13 +20,12 @@ async function hashPassword(pw: string): Promise<string> {
   return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, '0')).join('')
 }
 
-type Section = 'summary' | 'funnel' | 'financial' | 'scorecard'
+type Section = 'summary' | 'funnel' | 'financial'
 
 const NAV: { key: Section; label: string }[] = [
   { key: 'summary', label: 'Summary' },
   { key: 'funnel', label: 'Deal Funnel' },
   { key: 'financial', label: 'Financial' },
-  { key: 'scorecard', label: 'Scorecard' },
 ]
 
 function filterByRange<T extends { week: string }>(data: T[], range: string): T[] {
@@ -92,7 +88,6 @@ export default function App() {
   const [range, setRange] = useState('26')
 
   const filteredFunnel = useMemo(() => filterByRange(funnelData, range), [range])
-  const filteredScorecard = useMemo(() => filterByRange(scorecardData, range), [range])
   const filteredFinancial = useMemo(() => filterByRange(financialData, range), [range])
 
   const latestWeek = funnelData.length > 0 ? funnelData[funnelData.length - 1].week : 'N/A'
@@ -150,7 +145,6 @@ export default function App() {
         )}
         {section === 'funnel' && <FunnelPipeline data={filteredFunnel} />}
         {section === 'financial' && <FinancialKPIs data={filteredFinancial} />}
-        {section === 'scorecard' && <WeeklyScorecard data={filteredScorecard} />}
       </main>
     </div>
   )
