@@ -29,11 +29,11 @@ export default function ExecutiveSummary({ funnelData, financialData }: Props) {
 
   const cumFees = latestFinancial?.cumReferralFees ?? 0
 
-  // Compute YTD referral fees from funnel payment data
+  // Compute YTD referral fees from financial data
   const currentYear = latest ? new Date(latest.week + 'T00:00:00').getFullYear() : new Date().getFullYear()
-  const ytdPayments = funnelData
+  const ytdReferralFees = financialData
     .filter(w => new Date(w.week + 'T00:00:00').getFullYear() === currentYear)
-    .reduce((sum, w) => sum + w.paymentReceived.buyValue + w.paymentReceived.sellValue, 0)
+    .reduce((sum, w) => sum + w.referralFees, 0)
 
   return (
     <div className="space-y-4">
@@ -76,8 +76,8 @@ export default function ExecutiveSummary({ funnelData, financialData }: Props) {
           color="#10b981"
         />
         <KPICard
-          title="YTD Payment Received (Funnel)"
-          value={formatCurrency(ytdPayments, true)}
+          title="YTD Referral Fees"
+          value={formatCurrency(ytdReferralFees, true)}
           color="#059669"
         />
         <KPICard
