@@ -887,5 +887,12 @@
     "cumReferralFees": 2744050,
     "weeklyRevenue": 0,
     "weeklyAdSpend": 5800
+  },
+  {
+    "week": "2026-03-29",
+    "referralFees": 17669,
+    "cumReferralFees": 2761719,
+    "weeklyRevenue": 17669,
+    "weeklyAdSpend": 5800
   }
 ]

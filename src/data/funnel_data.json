@@ -7377,5 +7377,52 @@
       "sell": 0,
       "sellValue": 0
     }
+  },
+  {
+    "week": "2026-03-29",
+    "newLeads": {
+      "total": 24,
+      "totalValue": 12700000,
+      "buy": 22,
+      "buyValue": 11200000,
+      "sell": 2,
+      "sellValue": 1500000
+    },
+    "apptScheduled": {
+      "buy": 7,
+      "buyValue": 6250000,
+      "sell": 1,
+      "sellValue": 750000
+    },
+    "matching": {
+      "buy": 1,
+      "buyValue": 2000000,
+      "sell": 0,
+      "sellValue": 0
+    },
+    "connecting": {
+      "buy": 2,
+      "buyValue": 4000000,
+      "sell": 1,
+      "sellValue": 2000000
+    },
+    "connected": {
+      "buy": 1,
+      "buyValue": 350000,
+      "sell": 2,
+      "sellValue": 3300000
+    },
+    "inEscrow": {
+      "buy": 2,
+      "buyValue": 1875000,
+      "sell": 1,
+      "sellValue": 7375000
+    },
+    "paymentReceived": {
+      "buy": 1,
+      "buyValue": 245000,
+      "sell": 0,
+      "sellValue": 0
+    }
   }
 ]

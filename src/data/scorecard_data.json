@@ -1903,5 +1903,20 @@
     "newInEscrow": 0,
     "referralFees": 0,
     "customerSatisfaction": 0
+  },
+  {
+    "week": "2026-03-29",
+    "newLeads": 24,
+    "referrals": 0,
+    "reValueAdded": 12700000,
+    "consultsScheduled": 8,
+    "consultsCompleted": null,
+    "matchedConsumers": 1,
+    "timeToMatch": null,
+    "connectedConsumers": 3,
+    "agentsConvertedPct": null,
+    "newInEscrow": 3,
+    "referralFees": 17669,
+    "customerSatisfaction": 0
   }
 ]
